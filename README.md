@@ -56,6 +56,7 @@ Each file contains:
 | V | `main.v` |
 | Visual Basic | `main.vb` |
 | Zig | `main.zig` |
+| ActionScript | `main.as` | 
 
 > More languages may be added over time.
 
