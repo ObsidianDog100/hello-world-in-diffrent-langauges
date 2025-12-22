@@ -56,7 +56,9 @@ Each file contains:
 | V | `main.v` |
 | Visual Basic | `main.vb` |
 | Zig | `main.zig` |
-| ActionScript | `main.as` | 
+| Objective-C | `main.m` | 
+| Pascal | `main.pas` | 
+| Groovy | `main.groovy` |
 
 > More languages may be added over time.
 
