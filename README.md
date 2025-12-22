@@ -59,6 +59,7 @@ Each file contains:
 | Objective-C | `main.m` | 
 | Pascal | `main.pas` | 
 | Groovy | `main.groovy` |
+| Batch | `main.bat` |
 
 > More languages may be added over time.
 
