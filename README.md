@@ -24,6 +24,7 @@ Each file contains:
 |--------|------|
 | HTML | `index.html` |
 | Assembly | `main.asm` |
+| Batch | `main.bat` |
 | C | `main.c` |
 | COBOL | `main.cob` |
 | C++ | `main.cpp` |
@@ -95,8 +96,7 @@ Pull requests are welcome.
 
 ##  Why This Exists
 
-Because *“Hello, World!”* is where every programmer starts —  
-and it’s cool to see how many different ways humans have invented to say it.
+Because *“Hello, World!”* is where every programmer starts — and it’s cool to see how many different ways humans have invented to say it.
 
 ---
 
