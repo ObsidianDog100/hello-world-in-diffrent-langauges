@@ -1,4 +1,4 @@
-# Hello World – in diffrent langauges
+# Hello World in diffrent langauges
 
 This repository is a personal collection of **“Hello, World!” programs written in many different programming languages** — ranging from modern, popular languages to older and more niche ones.
 
