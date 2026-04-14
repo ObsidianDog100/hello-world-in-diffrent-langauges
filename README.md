@@ -20,7 +20,7 @@ Each file contains:
 | C | `main.c` |
 | COBOL | `main.cob` |
 | C++ | `main.cpp` |
-| C (alt) | `main.cr` |
+| Crystal | `main.cr` |
 | C# | `main.cs` |
 | CSS | `main.css` |
 | D | `main.d` |
