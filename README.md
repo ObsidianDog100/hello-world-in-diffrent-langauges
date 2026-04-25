@@ -99,6 +99,8 @@ Each file contains:
 | Zephir            | `main.zep`    |
 | Zig               | `main.zig`    |
 
+**Total Languages: 80**
+
 > More languages may be added over time.
 
 ## Credits
