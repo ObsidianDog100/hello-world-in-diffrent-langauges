@@ -1,0 +1,4 @@
+# Hello World in ALGOL
+BEGIN
+  OUTPUT ("Hello, World!", NEWLINE)
+END
